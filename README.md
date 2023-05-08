@@ -5,7 +5,7 @@ Create Exec:
 
 Run:
 ```
-build/bin/linuxX64/releaseExecutable/webjars-tools.kexe
+build/bin/linuxX64/releaseExecutable/webjars-tools.kexe YOUR_FILE
 ```
 
 Dev:
