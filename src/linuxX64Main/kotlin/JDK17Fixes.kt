@@ -4,13 +4,13 @@ import okio.buffer
 import okio.use
 import platform.posix.exit
 
-val inString = """
+const val inString = """
                 <artifactId>maven-release-plugin</artifactId>
                 <version>2.5.3</version>
             </plugin>
 """
 
-val outString = """
+const val outString = """
                 <artifactId>maven-release-plugin</artifactId>
                 <version>3.0.0</version>
             </plugin>
